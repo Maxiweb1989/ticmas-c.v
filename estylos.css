@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2? family= Oswald:wght@300 & display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(247, 244, 239);
+}
+.container1 img{
+    width: 250px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+.container1{
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    background-color: rgb(151, 151, 151);
+    padding: 80px;
+    margin-top: 10px;
+    border-top: 6px solid rgb(9, 9, 9);
+}
+.title{
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 15px;
+    font-family:  'Oswald', sans-serif;
+}
+.container1 li{
+    font-size: 18px;
+    font-weight: 300;
+    margin-top: 10px;
+
+}
+.container1 button{
+    margin-right: 40px;
+    padding: 10px 30px;
+    background-color: rgb(12, 12, 12);
+    color: whitesmoke;
+    border-radius: 5px;
+}
+.container1 button:hover{
+    background-color: rgb(223, 4, 4);
+    color: rgb(246, 247, 249);
+    transition: .5s;
+}
+.container1 ul{
+    font-size: 2rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #0d0c0c;
+    list-style: none;
+}
+.exp h2{
+    margin-top: 60px;
+    text-align: center;
+    color:rgb(0, 0, 0) ;
+    
+}
+.exp li{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    margin-top: 10px;
+}
+.exp p{
+    font-size: 18px;
+}
+.exp button{
+    margin-right: 40px;
+    padding: 10px 30px;
+    color: aqua;
+}
+.seccion ul {
+    font-size: 20px;
+    color: rgb(5, 5, 5);
+}
+.seccion li{
+    color: rgb(8, 8, 8);
+    font-family:  Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.habil h3{
+margin: 10px 0;
+padding-bottom: 10px;
+color: rgb(255, 255, 255);
+border-bottom: 3px solid rgb(251, 251, 252);
+}
+input{
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    outline: none;
+}
+footer{
+    margin-top: 20px ;
+
+}
+
+
